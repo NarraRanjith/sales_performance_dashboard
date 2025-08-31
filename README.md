@@ -5,3 +5,17 @@ https://app.powerbi.com/links/PB3LXejLV2?ctid=22e70cf1-901f-4760-b027-8cdb5ae437
 
 It consists of two pages Summary and Sales Trend.You can navigate between these two pages.
 
+
+
+
+
+
+
+
+
+
+
+
+Credits and thanks to "DataMinds Academy":
+https://youtu.be/DOyQ0VbaD4w?si=wbEpxIrFRHOs7z-J
+
