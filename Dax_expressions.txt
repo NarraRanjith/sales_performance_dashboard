@@ -1,0 +1,7 @@
+To create a new column:
+Age Group=
+IF(sales_data[Customer_Age]<25,"Youth <25",
+IF(sales_data[Customer_Age]>=25 && sales_data[Customer_Age]<35,"Young Adults (25-34)",
+IF(sales_data[Customer_Age]>=35 && sales_data[Customer_Age]<65,"Adults (35-64)",
+IF(sales_data[Customer_Age]>=65,"Seniors (65+)"))))
+
