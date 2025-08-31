@@ -1,15 +1,10 @@
-You can view the dashboard from this link:
-https://app.powerbi.com/links/PB3LXejLV2?ctid=22e70cf1-901f-4760-b027-8cdb5ae437bf&pbi_source=linkShare
-
-
-
-It consists of two pages Summary and Sales Trend.You can navigate between these two pages.
 
 📊 Power BI Sales Dashboard
 
 This project is a Power BI dashboard built to analyze and visualize sales performance. The dashboard helps track key sales metrics, spot trends, and monitor overall performance.
 
 🔗 View the dashboard here: Power BI Link
+https://app.powerbi.com/links/PB3LXejLV2?ctid=22e70cf1-901f-4760-b027-8cdb5ae437bf&pbi_source=linkShare
 
 📂 Dashboard Pages
 
@@ -42,16 +37,11 @@ Interact with filters and visuals to explore data
 This dashboard was created by following the DataMinds Academy tutorial
  on YouTube.
 Big thanks to DataMinds Academy for the guidance and dataset.
+https://youtu.be/DOyQ0VbaD4w?si=wbEpxIrFRHOs7z-J
+
 
 📌 Tech Stack
 
 Tool: Power BI
 
 Dataset: Provided in the tutorial (sample sales data)
-
-
-
-
-Credits and thanks to "DataMinds Academy":
-https://youtu.be/DOyQ0VbaD4w?si=wbEpxIrFRHOs7z-J
-
