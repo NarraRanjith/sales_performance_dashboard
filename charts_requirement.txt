@@ -1,0 +1,8 @@
+1)Total sales by product Category
+2)Total sales by Country and State
+3)Yearly Trend of Revenue
+4)Total sales by age group
+5)Top 5 Products as per Quantity Ordered
+6)Bottom 5 products as per quantity ordered
+7)Monthly sales trend and order quantity trend 
+8)Sales and Quantity oredered by country and product category
